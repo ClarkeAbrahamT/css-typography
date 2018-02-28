@@ -1,0 +1,35 @@
+body { 
+    background-color: #00021f; 
+}
+
+h1 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 36pt;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 24pt;
+    color: #c71313;
+}
+
+p {
+    font-family: "Arial";
+    color: #FFFFFF;
+}
+
+a:link {
+    font-family: "Arial";
+    color: #174ce3;
+}
+
+a:active {
+    font-family: "Arial";
+    color: #ff0000;
+}
+
+a:visited {
+    font-family: "Arial";
+    color: #71573c;
+}
